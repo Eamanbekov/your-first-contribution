@@ -1,1 +1,2 @@
 - [Aidai Kazybekova](https://github.com/aidai2)
+- [Azamat Derkenbaev](https://github.com/derkenbaev)
