@@ -12,7 +12,7 @@
 - [Saifullah Mamaraimov](https://github.com/NYGD)
 - [shaxzod](https://github.com/shoxa)
 - [maksatbekova](https://github.com/maksatbekova)
-- [Тоширо]_(https://github.com/6Toshiro9)
+- [Тоширо](https://github.com/6Toshiro9)
 - [ТИМОХА](https://github.com/TiMa02)
 - [Emir Amanbekov](https://github.com/eamanbekov)
 - [Shravana14](https://github.com/shravana14)
