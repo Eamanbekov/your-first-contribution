@@ -3,6 +3,7 @@
 - [Azamat Derkenbaev](https://github.com/derkenbaev)
 - [Bektursun](https://github.com/dadaday)
 - [Eliza Tashbekova](https://github.com/tashbekova)
+- [Eldiiar Egemberdiev](https://github.com/zeegrein)
 - [Ertur Sheranov](https://github.com/ErturS)
 - [Evgeniy Bobin](https://github.com/quantagonista)
 - [Jenish Mursidinov](https://github.com/Muxazuxa)
