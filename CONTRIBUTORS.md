@@ -1,3 +1,4 @@
+- [lolsreysa]
 - [A-Nuriza](https://github.com/A-Nuiza)
 - [Aidai Kazybekova](https://github.com/aidai2)
 - [Azamat Derkenbaev](https://github.com/derkenbaev)
