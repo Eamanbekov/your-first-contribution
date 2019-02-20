@@ -1,4 +1,6 @@
 - [A-Nuriza](https://github.com/A-Nuiza)
+- [sum sovann](https://github.com/Sum-Sovann2018)
+- [sum sovann](https://github.com/Sum-Sovann2018)
 - [Aidai Kazybekova](https://github.com/aidai2)
 - [Azamat Derkenbaev](https://github.com/derkenbaev)
 - [Bektursun](https://github.com/dadaday)
