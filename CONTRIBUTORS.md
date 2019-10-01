@@ -22,3 +22,4 @@
 - [Echoskope](https://github.com/echoskope)
 - [Sodaney Sary](https://github.com/sodaney)
 - [Sotherny Kosal](https://github.com/sosony)
+- [Jim Mitsos](https://github.com/jimmitsos)
