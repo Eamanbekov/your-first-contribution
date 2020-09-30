@@ -3,6 +3,7 @@
 - [kimhorng](https://github.com/kimhorng)
 - [Aidai Kazybekova](https://github.com/aidai2)
 - [Azamat Derkenbaev](https://github.com/derkenbaev)
+- [rahul chaurasia](https://github.com/rahulchaurasiazx55)
 - [Bektursun](https://github.com/dadaday)
 - [Eliza Tashbekova](https://github.com/tashbekova)
 - [Eldiiar Egemberdiev](https://github.com/zeegrein)
